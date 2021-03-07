@@ -1,0 +1,3 @@
+/Users/louksmalbil/Desktop/cpp_Celcius_to_Fahrenheit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/louksmalbil/Desktop/cpp_Celcius_to_Fahrenheit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/louksmalbil/Desktop/cpp_Celcius_to_Fahrenheit/cmake-build-debug/CMakeFiles/cpp_Celcius_to_Fahrenheit.dir
